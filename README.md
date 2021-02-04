@@ -1,6 +1,6 @@
 # zendemo
 
-OpenGL-based voxel terrain demo using the marching cubes algorithm, featuring an endless network of colourful caves.
+An endless network of colourful caves built using OpenGL and Rust. The caves are generated using a Worley noise sampler and the marching cubes algorithm.
 
 ## Getting Started
 ### Prerequisites
